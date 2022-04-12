@@ -1,2 +1,2 @@
 # Yngvi.c
-Um repositório só para meus projeto de C e C++
+Esse é meu repositório para meus projetos em C e C++. Espero que meus projetos de cativem :) .
